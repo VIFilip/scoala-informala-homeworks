@@ -1,1 +1,4 @@
-# scoala-informala-homeworks
+#scoala-informala-homeworks
+Vlad Filip
+
+
