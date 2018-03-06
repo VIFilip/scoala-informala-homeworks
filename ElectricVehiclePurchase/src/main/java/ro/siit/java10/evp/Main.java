@@ -1,4 +1,4 @@
-package ro.siit.java10.electrivehicle;
+package ro.siit.java10.evp;
 
 public class Main {
 
