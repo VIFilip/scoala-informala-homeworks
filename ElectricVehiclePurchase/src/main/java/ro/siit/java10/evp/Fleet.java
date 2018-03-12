@@ -1,24 +1,15 @@
 package ro.siit.java10.evp;
+import java.util.*;
 
 public class Fleet {
-    String newcar;
-    String usedcar;
+
+    public static void main(String[] args) {
+
+    }
+
+    String newcar, usedcar;
     int stocknr;
     float price;
 }
 
-//class Car is aggregated by Fleet
-class Car
 
-{
-    public void main(String[] args) {
-        String electricMotor;
-        String electricBatteries;
-        double energyConsumption;
-        String manufacturer;
-        String model;
-        int prodYear;
-
-
-    }
-}
